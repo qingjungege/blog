@@ -1,2 +1,3 @@
-# blog
-hello
+# blog - Record something
+---
+
