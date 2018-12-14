@@ -1,3 +1,3 @@
-# blog - Record something
+# Blog
 ---
 
