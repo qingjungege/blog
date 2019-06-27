@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [FrontEnd](FrontEnd/README.md)
     * [Vue](FrontEnd/Vue/README.md)
+      * [nuxtJS](FrontEnd/Vue/nuxtJS/README.md)
+        * [nuxtJS开发环境和生成环境使用import的方式](FrontEnd/Vue/nuxtJS/nuxtJS_use_import.md)
     * [React]()
 * [BackEnd](BackEnd/README.md)
     * [python](BackEnd/python/README.md)
