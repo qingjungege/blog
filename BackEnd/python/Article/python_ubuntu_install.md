@@ -1,27 +1,30 @@
-# python-ubuntu开发环境安装
+# ubuntu开发环境安装
+
 - VMware-12 虚拟机
-    - [VMware官网](https://www.vmware.com/cn.html)
-    - [VMware-12 虚拟机-百度云](https://pan.baidu.com/s/1agWjD-MtBeoirIwbHCtU_g)
-    - [VMware安装教程](https://blog.csdn.net/qq_40950957/article/details/80467513)  
+  - [VMware官网](https://www.vmware.com/cn.html)
+  - [VMware-12 虚拟机-百度云](https://pan.baidu.com/s/1agWjD-MtBeoirIwbHCtU_g)
+  - [VMware安装教程](https://blog.csdn.net/qq_40950957/article/details/80467513)  
 - ubuntu安装
-    - [ubuntu官网](https://www.ubuntu.com/download/desktop)
-    - [ubuntu-18.04.1-desktop-amd64.iso-百度云](https://pan.baidu.com/s/1rwlGCtsnh-JXm3QI5yGWLg)
-    - [ubuntu安装教程](https://blog.csdn.net/stpeace/article/details/78598333)
+  - [ubuntu官网](https://www.ubuntu.com/download/desktop)
+  - [ubuntu-18.04.1-desktop-amd64.iso-百度云](https://pan.baidu.com/s/1rwlGCtsnh-JXm3QI5yGWLg)
+  - [ubuntu安装教程](https://blog.csdn.net/stpeace/article/details/78598333)
+- ubuntu bionic apt 替换源
+  - [ubuntu bionic apt 源替换](https://www.cnblogs.com/AaronAndJoe/p/10065333.html)
 - ubuntu-VMware Tools
-    - [VMware tools安装](https://blog.csdn.net/luckypython/article/details/77917898)
+  - [VMware tools安装](https://blog.csdn.net/luckypython/article/details/77917898)
 - ubuntu-搜狗输入法
-    - [搜狗输入法 for linux](https://pinyin.sogou.com/linux/)
-    - [搜狗输入法安装教程](https://blog.csdn.net/areigninhell/article/details/79696751)
+  - [搜狗输入法 for linux](https://pinyin.sogou.com/linux/)
+  - [搜狗输入法安装教程](https://blog.csdn.net/areigninhell/article/details/79696751)
 - ubuntu-pycharm
-    - [pycharm官网](http://www.jetbrains.com/pycharm/)
-    - [pycharm安装和激活](https://blog.csdn.net/pdcfighting/article/details/80297499)
-    - [pycharm2018永久激活](https://blog.csdn.net/qq_23587541/article/details/82799471)
+  - [pycharm官网](http://www.jetbrains.com/pycharm/)
+  - [pycharm安装和激活](https://blog.csdn.net/pdcfighting/article/details/80297499)
+  - [pycharm2018永久激活](https://blog.csdn.net/qq_23587541/article/details/82799471)
 - ubuntu-chrome浏览器
-    - [chrome安装](https://jingyan.baidu.com/article/335530da98061b19cb41c31d.html)
+  - [chrome安装](https://jingyan.baidu.com/article/335530da98061b19cb41c31d.html)
 - ubuntu-mysql
-    - [mysql安装](https://www.cnblogs.com/zhuyp1015/p/3561470.html)
-    - [mysql5.7修改密码](https://www.cnblogs.com/super-zhangkun/p/9435974.html)
+  - [mysql安装](https://www.cnblogs.com/zhuyp1015/p/3561470.html)
+  - [mysql5.7修改密码](https://www.cnblogs.com/super-zhangkun/p/9435974.html)
 - ubuntu-redis
-    - [redis安装和配置](https://github.com/yuanwenq/dailyfresh/blob/master/configurationFile/redisDownload.md)
+  - [redis安装和配置](https://github.com/yuanwenq/dailyfresh/blob/master/configurationFile/redisDownload.md)
 - ubuntu-nginx
-    - [nginx安装](https://www.cnblogs.com/piscesLoveCc/p/5794926.html)
+  - [nginx安装](https://www.cnblogs.com/piscesLoveCc/p/5794926.html)
